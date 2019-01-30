@@ -1,0 +1,230 @@
+[
+    {
+        "timestamp": "2019-01-30T01:17:48",
+        "text": null,
+        "value": 0.24192190170288086,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:18:05Z",
+        "text": null,
+        "value": -0.73135370016098022,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:19:06Z",
+        "text": null,
+        "value": -0.95105654001235962,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:20:07Z",
+        "text": null,
+        "value": -0.19080899655818939,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:21:08Z",
+        "text": null,
+        "value": 0.76604443788528442,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:22:09Z",
+        "text": null,
+        "value": 0.93358039855957031,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:23:11Z",
+        "text": null,
+        "value": 0.12186934053897858,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:24:12Z",
+        "text": null,
+        "value": -0.80901700258255,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:25:13Z",
+        "text": null,
+        "value": -0.90630781650543213,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:26:14Z",
+        "text": null,
+        "value": -0.069756470620632172,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:27:16Z",
+        "text": null,
+        "value": 0.84804809093475342,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:28:17Z",
+        "text": null,
+        "value": 0.874619722366333,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:29:18Z",
+        "text": null,
+        "value": 2.4485999165768657e-12,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:30:19Z",
+        "text": null,
+        "value": -0.874619722366333,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:31:20Z",
+        "text": null,
+        "value": -0.84804809093475342,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:32:21Z",
+        "text": null,
+        "value": 0.0523359552025795,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:33:23Z",
+        "text": null,
+        "value": 0.90630781650543213,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:34:24Z",
+        "text": null,
+        "value": 0.80901700258255,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:35:25Z",
+        "text": null,
+        "value": -0.12186934053897858,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:36:26Z",
+        "text": null,
+        "value": -0.92718386650085449,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:37:27Z",
+        "text": null,
+        "value": -0.77714598178863525,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:38:28Z",
+        "text": null,
+        "value": 0.1736481785774231,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:39:30Z",
+        "text": null,
+        "value": 0.95105654001235962,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:40:31Z",
+        "text": null,
+        "value": 0.73135370016098022,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:41:32Z",
+        "text": null,
+        "value": -0.24192190170288086,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:42:33Z",
+        "text": null,
+        "value": -0.96592581272125244,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:43:35Z",
+        "text": null,
+        "value": -0.68199837207794189,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:44:36Z",
+        "text": null,
+        "value": 0.30901700258255005,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:45:37Z",
+        "text": null,
+        "value": 0.98162716627120972,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:46:38Z",
+        "text": null,
+        "value": 0.6427876353263855,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:47:39Z",
+        "text": null,
+        "value": -0.35836794972419739,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:48:40Z",
+        "text": null,
+        "value": -0.9902680516242981,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:49:42Z",
+        "text": null,
+        "value": -0.58778524398803711,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:50:43Z",
+        "text": null,
+        "value": 0.42261826992034912,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:51:44Z",
+        "text": null,
+        "value": 0.99756407737731934,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:52:45Z",
+        "text": null,
+        "value": 0.54463905096054077,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:53:47Z",
+        "text": null,
+        "value": -0.48480960726737976,
+        "qualifier": 192
+    },
+    {
+        "timestamp": "2019-01-30T01:54:48Z",
+        "text": null,
+        "value": -1,
+        "qualifier": 192
+    }
+]
